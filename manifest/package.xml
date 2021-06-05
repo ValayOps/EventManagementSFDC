@@ -328,7 +328,7 @@
 		<members>*</members>
 		<name>TransactionSecurityPolicy</name>
 	</types>
-	<types>
+	<types> 
 		<members>*</members>
 		<name>Workflow</name>
 	</types>
